@@ -71,7 +71,7 @@
   },
   "peerDependencies": {
     "react": "16 || 17 || 18",
-    "jsoneditor": "^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0"
+    "jsoneditor": "^7.0.0 || ^8.0.0 || ^9.0.0"
   },
   "browserslist": [
     "defaults"
